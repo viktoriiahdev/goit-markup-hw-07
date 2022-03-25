@@ -1,0 +1,22 @@
+.page-header {
+    display: flex;
+    align-items: stretch;
+    min-height: 80px;
+    border-bottom: 1px solid #ececec;
+}
+
+.page-header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-header__nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.page-header__menu {
+    margin-left: 93px;
+}

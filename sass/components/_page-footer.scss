@@ -1,0 +1,44 @@
+.page-footer {
+  background-color: var(--secondary-background-color-dark);
+
+  padding: 60px 0;
+}
+
+.page-footer__container {
+  display: flex;
+  align-items: baseline;
+}
+
+.page-footer__address {
+  font-style: normal;
+  margin-top: 20px;
+}
+
+.page-footer__address-line {
+  color: var(--main-text-color-light);
+  margin-bottom: 9px;
+}
+
+.page-footer__social-wrap {
+  margin-left: 70px;
+}
+
+.page-footer__subtitle {
+  color: var(--main-text-color-light);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+.page-footer__subscribe {
+  margin-left: auto;
+}
+
+.page-footer .form-subscribe {
+  display: flex;
+  align-items: stretch;
+  padding: 0;
+}
